@@ -1,0 +1,4 @@
+Hi everyone
+ we are learnign file I/O 
+using java.
+ I am nitish kuamr..
